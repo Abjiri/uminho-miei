@@ -7,9 +7,9 @@ Foi desenvolvido no âmbito da unidade curricular Laboratórios de Informática 
 ### Conteúdo
 
 1. [Projeto](src)
-2. [Relatório][report/report.pdf]
+2. [Relatório](report/report.pdf)
 
-## Contributores
+## Colaboradores
 
 ![Hugo Cardoso][hugo-pic] | ![João Costa][cunha-pic]
 :---: | :---:
