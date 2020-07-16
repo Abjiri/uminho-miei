@@ -9,7 +9,7 @@ It was developed in **Operating Systems**, in the second semester of the 2nd yea
 
 ### Content
 
-1. [Statement](statement.pdf)
+1. [Statement](statements)
 2. [Project](project)
 
 ## Contributors
