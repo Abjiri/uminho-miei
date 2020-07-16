@@ -5,7 +5,7 @@ The system consists of a server with the ability to handle multiple simultaneous
 
 Unfortunately, this assignment's report was lost.
 
-It was developed in **Operative Systems**, in the second semester of the 2nd year of the Bachelor's degree.
+It was developed in **Operating Systems**, in the second semester of the 2nd year of the Bachelor's degree.
 
 ### Content
 
