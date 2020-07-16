@@ -7,7 +7,7 @@ It was developed in **Object Oriented Programming**, in the second semester of t
 ### Content
 
 1. [Statement](statement.pdf)
-2. [Project](UmCarroJá!)
+2. [Project](project)
 3. [Report](report.pdf)
 
 ## Contributors
