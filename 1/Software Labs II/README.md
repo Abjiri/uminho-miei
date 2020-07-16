@@ -1,6 +1,7 @@
 # GandaGalo
 
-This project is a board game, written entirely in **C**.
+This project is a board game, written entirely in **C**. The objetive is to fill all the board's cells without ever lining up 3 consecutive X's or O's.
+The team went for a Super Mario-theme, in order to make the game more appealing.
 
 It was developed in **Software Labs II**, in the second semester of the Bachelor's degree.
 
