@@ -11,4 +11,4 @@
 This repository contains the projects I developed during my Software Engineering course (bachelor + master).
 
 
-## :books: List of Projects
+## :computer: List of Projects
