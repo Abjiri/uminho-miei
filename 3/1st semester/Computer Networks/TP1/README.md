@@ -5,7 +5,7 @@ For this assignment, we had to choose a subject relevant to the curricular unit 
 The chosen theme was the transition from 4G mobile networks to 5G. We do a quick rundown of the evolution of wireless networks since their appearance 
 and then focus on the limitations of 4G, as well as motive and vision for 5G.
 
-In the end, we presented our findings to the class through a powerpoint presentation.
+In the end, we shared our findings with the class through a powerpoint presentation.
 
 The assignment was developed in **Computer Networks**, in the first semester of the 3rd and last year of the Bachelor's degree.
 
