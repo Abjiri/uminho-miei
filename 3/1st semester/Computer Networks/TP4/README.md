@@ -1,7 +1,7 @@
 # Wireless Networks (802.11)
 
 The purpose of the assignment was to learn about concepts such as the types of frames, their limitations, radio access, scanning, 
-the association process and data transference in wireless networks, through a set of given questions the team had to answer.
+the association process and data transference in wireless networks, through a given set of questions the team had to answer.
 
 It was developed in **Computer Networks**, in the first semester of the 3rd and last year of the Bachelor's degree.
 
