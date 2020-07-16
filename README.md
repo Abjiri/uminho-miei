@@ -9,6 +9,6 @@
 
 This repository contains the projects developed during my Software Engineering course, in University of Minho.
 
-Below is a list of the curricular units within the scope of which the respective assignments were developed, as well as their grades.
+Below is a list of the curricular units within the scope of which the assignments were developed, as well as their respective grades.
 
 ## :memo: Projects
