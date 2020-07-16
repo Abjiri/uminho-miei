@@ -3,7 +3,7 @@
 This project is a sales management system for hypermarkets with multiple branches, with an incorporated query system to check real time sales statistics.
 The assignment was developed twice, first in **C** and then in **JAVA**.
 
-It was developed in **Software Labs III**, in the second semester of the 2nd year of the Bachelor's degree.# Inventory and Sales Management
+It was developed in **Software Labs III**, in the second semester of the 2nd year of the Bachelor's degree.
 
 ### Content
 
