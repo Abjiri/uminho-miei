@@ -3,8 +3,6 @@
   <br>
   <h2>
   <strong>Engenharia Informática</strong>
-  <em>@</em>
-  <strong><a href="https://www.uminho.pt/EN/">Universidade do Minho</a></strong>
   </h2>
 </div>
 
