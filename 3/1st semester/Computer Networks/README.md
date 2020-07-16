@@ -17,9 +17,9 @@ The assignment was developed in **Computer Networks**, in the first semester of 
 
 ## Contributors
 
-![Filipa Santos][filipa-pic] | ![Hugo Cardoso][hugo-pic] | ![João Costa][cunha-pic] | ![Válter Carvalho][valter-pic]
-:---: | :---: | :---: | :---:
-[Filipa Santos][filipa] | [Hugo Cardoso][hugo] | [João Costa][cunha] | [Válter Carvalho][valter]
+![Filipa Santos][filipa-pic] | ![Hugo Cardoso][hugo-pic] | ![João Costa][cunha-pic]
+:---: | :---: | :---:
+[Filipa Santos][filipa] | [Hugo Cardoso][hugo] | [João Costa][cunha]
 
 [filipa]: https://github.com/fliper6
 [filipa-pic]: https://github.com/fliper6.png?size=120
@@ -27,5 +27,3 @@ The assignment was developed in **Computer Networks**, in the first semester of 
 [hugo-pic]: https://github.com/Abjiri.png?size=120
 [cunha]: https://github.com/Jcc20
 [cunha-pic]: https://github.com/Jcc20.png?size=120
-[valter]: https://github.com/wurzy
-[valter-pic]: https://github.com/wurzy.png?size=120
