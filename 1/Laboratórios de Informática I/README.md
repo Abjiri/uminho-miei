@@ -1,16 +1,16 @@
 # MicroMachines
 
-Este projeto consiste num jogo de corridas de carros, desenvolvido integralmente na linguagem de programação funcional Haskell.
+This project is a car racing game, written entirely with the functional programming language Haskell.
 
-Foi desenvolvido no âmbito da unidade curricular Laboratórios de Informática I, no 1º semestre da licenciatura.
+It was developed in Software Labs I, in the first semestre of the Bachelor's degree.
 
-### Conteúdo
+### Content
 
-1. [Enunciado](statements)
-2. [Projeto](src)
-3. [Relatório](report/report.pdf)
+1. [Statement](statements)
+2. [Project](src)
+3. [Report](report/report.pdf)
 
-## Colaboradores
+## Contributors
 
 ![Hugo Cardoso][hugo-pic] | ![João Costa][cunha-pic]
 :---: | :---:
