@@ -1,6 +1,7 @@
 # Clínica Pé de Atleta (Athlete's Foot Clinic)
 
 This project consisted in the development of a relational database for a medical clinic for athletes (hence the pun in its name), using the language **SQL** in the environment **MySQL**.
+
 Afterwards, the system was migrated to a non-relational (**NoSQL**) database, using **Neo4j**
 
 It was developed in **Databases**, in the first semester of the 3rd and last year of the Bachelor's degree.
