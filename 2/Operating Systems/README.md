@@ -3,14 +3,13 @@
 This project is an inventory and sales management system, which aims to implement synchronized concurrent threads in **C** through pipes. 
 The system consists of a server with the ability to handle multiple simultaneous requests from clients.
 
-Unfortunately, this assignment's report was lost.
-
 It was developed in **Operating Systems**, in the second semester of the 2nd year of the Bachelor's degree.
 
 ### Content
 
 1. [Statement](statements)
 2. [Project](project)
+3. [Report](report.pdf)
 
 ## Contributors
 
