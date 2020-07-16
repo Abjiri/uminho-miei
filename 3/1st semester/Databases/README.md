@@ -7,7 +7,7 @@ The assignment was developed in **Databases**, in the first semester of the 3rd 
 
 ### Content
 
-1. [Statement](statements)
+1. [Statement](statement.pdf)
 2. [MySQL Database](MySQL)
 3. [NoSQL Database](Neo4j)
 4. [Report](report.pdf)
