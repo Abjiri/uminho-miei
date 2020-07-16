@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-	<h1><strong>Engenharia Informática</strong></h1>
+	<h1><strong>Mestrado Integrado em Engenharia Informática</strong></h1>
 </div>
 
 Este repositório contém os projetos desenvolvidos ao longo do Mestrado Integrado em Engenharia Informática, na Universidade do Minho.   
