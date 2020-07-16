@@ -6,7 +6,7 @@ Foi desenvolvido no âmbito da unidade curricular Laboratórios de Informática 
 
 ### Conteúdo
 
-1. [Enunciado](statement)
+1. [Enunciado](statements)
 2. [Projeto](src)
 3. [Relatório](report/report.pdf)
 
