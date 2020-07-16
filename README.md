@@ -8,7 +8,7 @@
   </h2>
 </div>
 
-This repository contains the projects I developed during my Software Engineering course (bachelor + master).
+Este repositório contém os trabalhos práticos que desenvolvi ao longo do Mestrado Integrado em Engenharia Informática, na Universidade do Minho.
+De seguida, encontra-se uma lista das unidades curriculares no âmbito das quais foram realizados os respetivos projetos, bem como as notas obtidas nos mesmos.
 
-
-## :memo: List of Projects
+## :memo: Projetos
