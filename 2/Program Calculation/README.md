@@ -1,7 +1,7 @@
 # Program Calculation Problems
 
 This project consists of several isolated complex problems to be solved through meticulous programming based on the calculation of programs.
-The solution was written in **Haskell**, in combination with **lhs2tex**, making it a literate program, where the code and documentation blend together in a natural way.
+The solution was written in **Haskell**, in combination with **lhs2tex**, making it a literate program where the code and documentation blend together in a natural way.
 
 It was developed in **Program Calculation**, in the second semester of the 2nd year of the Bachelor's degree.
 
