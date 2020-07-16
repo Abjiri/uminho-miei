@@ -9,8 +9,9 @@ The assignment was developed in **Computer Networks**, in the first semester of 
 
 ### Content
 
-1. [Statement](statement.pdf)
-2. [Report](report.pdf)
+1. [1st statement](statement-part1.pdf)
+2. [2nd statement](statement-part2.pdf)
+3. [Report](report.pdf)
 
 ## Contributors
 
