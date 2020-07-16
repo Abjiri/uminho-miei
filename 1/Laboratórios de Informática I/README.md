@@ -16,6 +16,6 @@ Foi desenvolvido no âmbito da unidade curricular Laboratórios de Informática 
 [Hugo Cardoso][hugo] | [João Costa][cunha]
 
 [hugo]: https://github.com/Abjiri
-[hugo-pic]: https://github.com/Abjiri.png?size=120
+[hugo-pic]: https://github.com/Abjiri.png
 [cunha]: https://github.com/Jcc20
-[cunha-pic]: https://github.com/Jcc20.png?size=120
+[cunha-pic]: https://github.com/Jcc20.png
