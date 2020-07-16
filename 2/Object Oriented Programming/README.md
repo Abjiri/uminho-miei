@@ -2,7 +2,7 @@
 
 This project is a car rental desktop application, similar to Uber, written in **JAVA** while following Object Oriented Programming principles.
 
-The title in portuguese is a pun with University of Minho, often abbreviated to UM. :exclamation::question:
+The title in portuguese is a pun with University of Minho, often abbreviated to UM. :satisfied:
 
 The assignment was developed in **Object Oriented Programming**, in the second semester of the 2nd year of the Bachelor's degree.
 
