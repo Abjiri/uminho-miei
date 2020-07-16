@@ -9,7 +9,6 @@
 </div>
 
 Este repositório contém os projetos desenvolvidos ao longo do Mestrado Integrado em Engenharia Informática, na Universidade do Minho.
-
 De seguida, encontra-se uma lista das unidades curriculares no âmbito das quais foram realizados os respetivos trabalhos práticos, bem como as notas obtidas nos mesmos.
 
 ## :memo: Projetos
