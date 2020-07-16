@@ -4,10 +4,10 @@
 </div>
 
 <div align="center">
-	<h1><strong>Mestrado Integrado em Engenharia Informática</strong></h1>
+	<h1><strong>Software Engineering</strong></h1>
 </div>
 
-Este repositório contém os projetos desenvolvidos ao longo do Mestrado Integrado em Engenharia Informática, na Universidade do Minho.   
-De seguida, encontra-se uma lista das unidades curriculares no âmbito das quais foram realizados os respetivos trabalhos práticos, bem como as notas obtidas nos mesmos.
+This repository contains the projects I developed during my Software Engineering course, in University of Minho.
+Below is a list of the curricular units within the scope of which the respective assignments were developed, as well as their grades.
 
-## :memo: Projetos
+## :memo: Projects
