@@ -2,7 +2,7 @@
 
 This project consisted in the development of a media center with a graphical interface, where users are able to upload songs and videos to share between themselves,
 within a local network and across devices.
-Basically, a weird crossover between Youtube and Spotify. :sweat_smile:
+Basically, a weird scaled-down crossover between Youtube and Spotify. :sweat_smile:
 
 The team started with vague use cases and worked their way up to rigorous diagrams (sequence, class, package) representative of the program's
 final behaviour, through the **Visual Paradigm** software, finally setting up a database in **SQL** and implementing the mentioned logic in **JAVA**.
