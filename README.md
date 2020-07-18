@@ -7,7 +7,7 @@
 	<h1><strong>Software Engineering</strong></h1>
 </div>
 
-This repository contains the projects developed during my Software Engineering course, in University of Minho.
+This repository contains the projects developed during my Software Engineering course, at University of Minho.
 
 Below is a list of the curricular units within the scope of which the assignments were developed, as well as their respective grades.
 
