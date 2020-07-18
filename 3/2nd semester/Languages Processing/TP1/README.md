@@ -1,7 +1,7 @@
 # Multi-File Template
 
 For this project, several statements were provided. The team chose the first one, which ammounted to the development of a **Flex** program (with **C** incorporated)
-capable of generating a project's skeleton from a provided template.
+capable of generating a project's skeleton from a provided template, through the use of regular expressions and condition-action production rules.
 
 The assignment was developed in **Languages Processing**, in the last semester of the Bachelor's degree (2019/20).
 
