@@ -2,7 +2,7 @@
 
 This assignment consisted in the capture and analysis of Ethernet frames and exploration of the ARP protocol, in order to answer the proposed questions.
 
-It was developed in **Computer Networks**, in the first semester of the 3rd and last year of the Bachelor's degree.
+It was developed in **Computer Networks**, in the first semester of the 3rd and last year of the Bachelor's degree (2019/20).
 
 ### Content
 
