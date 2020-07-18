@@ -1,7 +1,7 @@
 # Extended Logic Programming and Imperfect Knowledge
 
 This project consisted in the development of a knowledge base related to the Public Contracts area, as well as an inference system adjusted to programming in extended logic.
-All of this was done in the symbolic programming language **Prolog**, using the **SICStus** inference engine as a testing environment.
+All of this was done in the symbolic language **Prolog**, using the **SICStus** inference engine as a testing environment.
 
 The assignment was developed in **Knowledge and Reasoning Representation Systems**, in the last semester of the Bachelor's degree (2019/20).
 
