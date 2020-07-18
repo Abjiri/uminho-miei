@@ -3,7 +3,7 @@
 In this project, we had to formulate a linear programming model from a real life situation, identifying its decision variables, data, restrictions and objetive function.
 We then introduced this model into the **lpSolve** software in order to find the optimal solution (path).
 
-The assignment was developed in **Deterministic Methods of Operational Investigation**, in the first semester of the 3rd and last year of the Bachelor's degree.
+The assignment was developed in **Deterministic Methods of Operational Investigation**, in the first semester of the 3rd and last year of the Bachelor's degree (2019/20).
 
 ### Content
 
