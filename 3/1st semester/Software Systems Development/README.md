@@ -7,7 +7,7 @@ Basically, a weird scaled-down crossover between Youtube and Spotify. :sweat_smi
 The team started with vague use cases and worked their way up to rigorous diagrams (sequence, class, package) representative of the program's
 final behaviour, through the **Visual Paradigm** software, finally setting up a database in **SQL** and implementing the mentioned logic in **JAVA**.
 
-The assignment was developed in **Software Systems Development**, in the first semester of the 3rd and last year of the Bachelor's degree.
+The assignment was developed in **Software Systems Development**, in the first semester of the 3rd and last year of the Bachelor's degree (2019/20).
 
 ### Content
 
