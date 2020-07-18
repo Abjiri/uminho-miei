@@ -1,0 +1,75 @@
+# This is a TOML document.
+
+title = "TOML Example"
+
+    [owner]
+          name = "Tom Preston-Werner"
+dob =           1979-05-27T07:32:00-08:00 # First class dates
+        birthday =          1979-05-23
+   married =             false
+
+[database]
+server         =              "192.168.1.1"
+ports =        [ 8001, 8001, 8002 ]
+connection_max        =           5000
+enabled                     = true
+
+[servers]
+  # Random Comment
+  # Indentation (tabs and/or spaces) is allowed but not required
+  [servers.alpha]
+online = false
+  ip       = "10.0.0.1"
+            domain.public =      false
+  domain.dns =          "dns.google.com"
+     domain.owner       =     "N/A"
+                dc = "abm2024"
+ connections = 128000
+         files.limit =     100
+  files."available" =         true
+
+  [servers.beta]
+online = true
+  ip = "10.0.0.2"
+                               
+                             domain.public =      true
+          domain.owner      =     "N/A"
+   dc = "abm2025"
+connections = 12000
+  files.limit = 16
+      files."available" = true
+
+  [servers.gama]
+online    =        false
+  ip = "10.0.0.3"
+                               
+                             domain.public =      false
+domain.owner =     "N/A"
+  dc = "abm2026"
+connections = 6000
+  files.limit = 16
+      files."available" = true
+
+[clients]
+data =     [ ["Mars", "Hermes", "Athena"],        [16, 24, 16]     ]
+  requests.max = [ 16, 16, 16 ]
+         timeout  =    1
+   cache.l1     = 32
+
+     cache.l2 =  64 
+
+
+
+                 cache.l3 =       128
+
+     cache.total =              [224, 224, 224]
+
+# Line breaks are OK when inside arrays
+hosts = [
+  "Mars",
+  "Hermes",
+  "Athena"
+]
+
+
+

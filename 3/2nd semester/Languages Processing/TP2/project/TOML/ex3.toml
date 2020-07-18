@@ -1,0 +1,49 @@
+title = "Geometry Project"
+page.color = "rectangular"
+page.shape1 = "square"
+page.shape2 = "rectangular"
+page."shape3" = "square"
+autocorrect = false
+spacing = "14pt"
+
+[about]
+name = "Group 104"
+group.registered = 2019-03-21
+group.theme = "Geometry"
+teacher = "ffs"
+
+[delivery]
+email = "ffs@fml.com"
+aliases = [ ["ffS", "FFS", "fFs"] , ["fmL", "FML", "fMl"] ]
+minimum_words = 1000
+public = true
+deadline = 2019-06-30
+
+[assignment]
+[assignment.pages]
+number = 24
+index = 2
+max = 30
+color = "default"
+[assignment.pages.properties]
+color = "rectangular"
+shape1 = "square"
+shape2 = "rectangular"
+shape3 = "square"
+
+[assignment.grading]
+group.grades = [ 15, 15, 15 ]
+group.satisfaction = [ 84, 81, 83 ]
+teacher = "ffs"
+group.nonepassed = false
+group.allpassed = true
+available = 2019-07-15
+
+[assignment.grading.comments]
+teacher = "Brilliant!"
+students = "We could've done better!"
+
+[message]
+text = "Hello! We're sending the project!"
+anexes = [ "project.pdf" , "project.m" ]
+

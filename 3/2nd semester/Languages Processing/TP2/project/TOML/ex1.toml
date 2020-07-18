@@ -1,0 +1,17 @@
+title = "TOML FILE"
+
+[root]
+size = 20
+max = 10000000 
+
+[home]
+dirs = 113
+files = 18782631
+permissions = "root"
+
+[bin]
+[bin.execute]
+size = 100
+names = [ "ls", "rm", "cat" ]
+permissions = [ "rd", "rdrw", "rd" ]
+owner = [ "root", "root", "root" ]

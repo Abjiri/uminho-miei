@@ -1,0 +1,73 @@
+=== meta
+
+email: jj@di.uminho.pt
+author: J.João
+date: 23/03/2020
+# "name" é dado por argumento de linha de comando (argv[1])
+
+=== tree
+{%name%}/
+
+- todosTiposFicheiros/
+-- log.txt
+-- Makefile
+-- {%name%}.md
+-- {%author%}.fl
+-- {%name%}
+-- {%author%} Jr
+-- {%name%}.1.2.3.fl
+
+- todosTiposPastas/
+-- doc/
+-- {%name%}/
+-- {%email%}/
+-- {%name%}.2/
+
+--- ficheiro/2.txt
+--- pasta/2/
+--- {%date%}.fl
+--- {%date%}/
+---- exemplo2/
+----- ficheiroInvalido
+------ profundidadeInvalida
+
+- profundidade1/
+-- profundidade2/
+--- profundidade3/
+---- profundidade4/
+----- profundidadeMax/
+----- ficheiroMaxProfundidade.md
+
+=== Makefile
+
+{%name%}: {%name%}.fl
+        flex {%name%}.fl
+        cc -o {%name%} lex.yy.c
+
+install: {%name%}
+        cp {%name%} /usr/local/bin/
+
+=== ficheiroMaxProfundidade.md
+# NAME
+
+{%name%} - o nosso fabuloso filtro ...FIXME
+
+## Synopsis
+
+   {%name%} file*
+
+## Description
+## See also
+## Author
+
+Comments and bug reports to {%author%}, {%email%}.
+
+=== {%author%}.fl
+%option noyywrap yylineno
+%%
+
+%%
+int main(){
+  yylex();
+  return 0;
+}
