@@ -1,15 +1,13 @@
-# 3rd Assignment
+# File Exchange
 
-This last project was divided in two major parts:
-* Part 0 + 1: Applying **critical path methods (CPM)** to a project, with the help of the **lpSolve** software, developing the respective network graphs and Gantt diagrams.
-* Part 2: Figuring out which activities' duration to reduce, in order to lower the project's total execution time while keeping the additional cost at a minimum.
+---
 
-The assignment was developed in **Deterministic Methods of Operational Investigation**, in the first semester of the 3rd and last year of the Bachelor's degree (2019/20).
+The assignment was developed in **Distributed Systems**, in the last semester of the Bachelor's degree (2019/20).
 
 ### Content
 
 1. [Statement](statement.pdf)
-2. [lpSolve Files](files)
+2. [Project](project)
 3. [Report](report.pdf)
 
 ## Contributors
