@@ -8,7 +8,7 @@ The assignment was developed in **Stocasthic Methods of Operational Investigatio
 
 ### Content
 
-1. [Statements](statements)
+1. [Statement](statement.pdf)
 2. [Project](project)
 3. [Report](report.pdf)
 
