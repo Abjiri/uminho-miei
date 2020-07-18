@@ -1,4 +1,4 @@
-# Linear Programming Models
+# 1st Assignment
 
 In this project, we had to formulate a linear programming model from a real life situation, identifying its decision variables, data, restrictions and objetive function.
 We then introduced this model into the **lpSolve** software in order to find the optimal solution (path).
