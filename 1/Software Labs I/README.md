@@ -2,7 +2,7 @@
 
 This project is a car racing game, written entirely in the functional programming language **Haskell**.
 
-It was developed in **Software Labs I** (2017/18), in the first semester of the Bachelor's degree.
+It was developed in **Software Labs I**, in the first semester of the Bachelor's degree (2017/18).
 
 ### Content
 
