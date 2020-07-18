@@ -1,0 +1,39 @@
+;
+$TTL 604800
+$ORIGIN pt.
+cc	IN	SOA	dns.cc.pt.	grupo02.cc.pt. (
+				3		;Serial
+				604800		;Refresh
+				86400		;Retry
+				2419200		;Expire
+				604800)		;Negative Cache TTL
+
+ 	IN	NS 	dns.cc.pt.
+	IN	NS 	dns2.cc.pt.
+	IN	MX	10	mail.cc.pt.
+	IN	MX	20	mail2.cc.pt.
+
+$ORIGIN cc.pt.
+	IN	A	10.3.3.3
+dns 	IN	A	10.3.3.1
+dns2	IN	A	10.4.4.1
+
+www	IN	A	10.3.3.3
+mail	IN	A	10.3.3.3
+
+pop	IN	A	10.3.3.2
+imap	IN	A	10.3.3.2
+mail2	IN	A	10.3.3.2
+
+Portatil1	IN	A	10.1.1.1
+Grupo02		IN	CNAME	Portatil1
+Portatil2	IN	A	10.1.1.2
+Portatil3	IN	A	10.1.1.3
+
+Hermes		IN	CNAME	dns2
+Zeus		IN	A	10.4.4.2
+Atena		IN	A	10.4.4.3
+
+Alfa		IN	A	10.2.2.1
+Delta		IN	A	10.2.2.2
+Omega		IN	A	10.2.2.3

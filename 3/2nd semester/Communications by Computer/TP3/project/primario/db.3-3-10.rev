@@ -1,0 +1,21 @@
+;
+$TTL    604800
+3.3.10.in-addr.arpa.       IN      SOA     dns.cc.pt.	grupo02.cc.pt. (
+                              1         ; Serial
+                         604800         ; Refresh
+                          86400         ; Retry
+                        2419200         ; Expire
+                         604800 )       ; Negative Cache TTL
+
+
+        IN      NS      dns.cc.pt.
+        IN      NS      dns2.cc.pt.
+$ORIGIN 3.3.10.in-addr.arpa.
+1	IN	PTR	dns.cc.pt.
+
+3 	IN 	PTR 	www.cc.pt.
+3 	IN	PTR 	mail.cc.pt.
+
+2 	IN 	PTR 	pop.cc.pt.
+2 	IN	PTR	imap.cc.pt.
+2 	IN	PTR	mail2.cc.pt.
