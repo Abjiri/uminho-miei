@@ -12,7 +12,7 @@ This assignment was developed in **Communications by Computer**, in the last sem
 ## Contributors
 
 ![Hugo Cardoso][hugo-pic] | ![João Costa][cunha-pic] | ![Válter Carvalho][valter-pic]
-:---: | :---: | :---: |
+:---: | :---: | :---:
 [Hugo Cardoso][hugo] | [João Costa][cunha] | [Válter Carvalho][valter]
 
 [hugo]: https://github.com/Abjiri
