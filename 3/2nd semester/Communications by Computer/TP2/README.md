@@ -1,12 +1,12 @@
 # Originator's Anonimity Overlay Network
 
-In this project, the objective was to develop a gateway network to abstract the connection to a target server, so as to prevent package sniffing
+In this project, the objective was to develop a gateway network to abstract the connection to a target server, so as to prevent package sniffing that might reveal the sender's identity. This implied the creation of a new **PDU**, as well as the use of **TCP** and **UDP** sockets.
 
 This assignment was developed in **Communications by Computer**, in the last semester of the Bachelor's degree (2019/20).
 
 ### Content
 
-1. [Statements](statements)
+1. [Statement](statement.pdf)
 3. [Report](report.pdf)
 
 ## Contributors
