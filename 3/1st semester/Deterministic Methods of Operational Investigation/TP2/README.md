@@ -1,6 +1,6 @@
 # 2nd Assignment
 
-In this project, we had to face the same problem from the previous assignment as a network transportation problem, 
+In this project, we had to face the same situation from the previous assignment as a network transportation problem, 
 developing minimization models for the network transportation cost and analysing it with the network optimization software **Relax4**.
 
 The assignment was developed in **Deterministic Methods of Operational Investigation**, in the first semester of the 3rd and last year of the Bachelor's degree.
