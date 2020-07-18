@@ -6,7 +6,7 @@ It was developed in **Software Labs I**, in the first semester of the Bachelor's
 
 ### Content
 
-1. [Statement](statements)
+1. [Assignments](assignments)
 2. [Project](src)
 3. [Report](report/report.pdf)
 

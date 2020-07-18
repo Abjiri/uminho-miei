@@ -11,7 +11,7 @@ The assignment was developed in **Computer Networks**, in the first semester of 
 
 ### Content
 
-1. [Statement](statement.pdf)
+1. [Assignment](assignment.pdf)
 2. [Report](report.pdf)
 3. [Presentation](presentation.pptx)
 

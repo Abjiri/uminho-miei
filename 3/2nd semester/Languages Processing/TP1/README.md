@@ -7,7 +7,7 @@ The assignment was developed in **Languages Processing**, in the last semester o
 
 ### Content
 
-1. [Statement](statement.pdf)
+1. [Assignment](assignment.pdf)
 2. [Project](project)
 3. [Report](report.pdf)
 

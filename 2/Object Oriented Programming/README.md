@@ -8,7 +8,7 @@ The assignment was developed in **Object Oriented Programming**, in the second s
 
 ### Content
 
-1. [Statement](statement.pdf)
+1. [Assignment](assignment.pdf)
 2. [Project](project)
 3. [Report](report.pdf)
 

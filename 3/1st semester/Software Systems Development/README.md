@@ -11,7 +11,7 @@ The assignment was developed in **Software Systems Development**, in the first s
 
 ### Content
 
-1. [Statement](statement.pdf)
+1. [Assignment](assignment.pdf)
 2. [Diagrams](diagrams)
 3. [Project](project)
 4. [Report](report.pdf)

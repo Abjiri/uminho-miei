@@ -11,7 +11,7 @@ The assignment was developed in **Knowledge and Reasoning Representation Systems
 
 ### Content
 
-1. [Statements](statements)
+1. [Assignment](assignment)
 2. [Data](data)
 3. [Python Parser](parser.ipynb)
 4. [Project](project)

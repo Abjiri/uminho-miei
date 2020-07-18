@@ -8,7 +8,7 @@ The assignment was developed in **Deterministic Methods of Operational Investiga
 
 ### Content
 
-1. [Statement](statement.pdf)
+1. [Assignment](assignment.pdf)
 2. [lpSolve Files](files)
 3. [Report](report.pdf)
 

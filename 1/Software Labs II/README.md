@@ -7,7 +7,7 @@ It was developed in **Software Labs II**, in the second semester of the Bachelor
 
 ### Content
 
-1. [Statement](statement.pdf)
+1. [Assignment](assignment.pdf)
 2. [Project](src)
 
 ## Contributors

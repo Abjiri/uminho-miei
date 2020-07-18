@@ -7,7 +7,7 @@ The assignment was developed in **Knowledge and Reasoning Representation Systems
 
 ### Content
 
-1. [Statements](statements)
+1. [Assignment](assignment)
 2. [Project](project)
 3. [Report](report.pdf)
 

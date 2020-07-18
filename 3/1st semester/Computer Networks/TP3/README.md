@@ -6,7 +6,7 @@ It was developed in **Computer Networks**, in the first semester of the 3rd and 
 
 ### Content
 
-1. [Statement](statement.pdf)
+1. [Assignment](assignment.pdf)
 3. [Report](report.pdf)
 
 ## Contributors

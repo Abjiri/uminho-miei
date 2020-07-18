@@ -7,7 +7,7 @@ It was developed in **Program Calculation**, in the second semester of the 2nd y
 
 ### Content
 
-1. [Statement + Project + Report](project/cp1819t.pdf)
+1. [Assignment + Project + Report](project/cp1819t.pdf)
 
 ## Contributors
 

@@ -6,7 +6,7 @@ This assignment was developed in **Communications by Computer**, in the last sem
 
 ### Content
 
-1. [Statements](statements)
+1. [Assignment](assignment)
 3. [Report](report.pdf)
 
 ## Contributors
