@@ -7,7 +7,7 @@ and then focus on the limitations of 4G, as well as motive and vision for 5G.
 
 In the end, we shared our findings with the class through a powerpoint presentation.
 
-The assignment was developed in **Computer Networks**, in the first semester of the 3rd and last year of the Bachelor's degree.
+The assignment was developed in **Computer Networks**, in the first semester of the 3rd and last year of the Bachelor's degree (2019/20).
 
 ### Content
 
