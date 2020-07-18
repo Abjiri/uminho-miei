@@ -2,8 +2,7 @@
 
 This project was divided in two separate parts: 
 * firstly, we are faced with a scenario for which we had to find out the best policy to maximize the profit, through the value iteration model, implemented in **JAVA**;
-* secondly, we present a comprehensive summary of a scientific paper on the use of multi-state Markov chains in the analysis of Chronic Kidney Disease
-progression.
+* secondly, we present a comprehensive summary of a scientific paper on the use of multi-state Markov chains in the analysis of Chronic Kidney Disease progression, published in the **Turkiye Klinikleri Journal of Biostatistics**.
 
 The assignment was developed in **Stocasthic Methods of Operational Investigation**, in the last semester of the Bachelor's degree (2019/20).
 
