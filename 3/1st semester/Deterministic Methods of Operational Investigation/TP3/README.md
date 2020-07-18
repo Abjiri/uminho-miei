@@ -10,7 +10,7 @@ The assignment was developed in **Deterministic Methods of Operational Investiga
 
 1. [Statement](statement.pdf)
 2. [lpSolve Files](files)
-2. [Report](report.pdf)
+3. [Report](report.pdf)
 
 ## Contributors
 
