@@ -1,6 +1,6 @@
 # File Exchange
 
-In this project, we were asked to implement a sharing platform for music files, similar to how Soundcloud works, as a client/server system in **JAVA**,
+In this project, we were asked to implement a platform to share music files, similar to how Soundcloud works, as a client/server system in **JAVA**,
 making use of sockets and threads to implement multithreading, while preventing race conditions through locks and conditions.
 
 The assignment was developed in **Distributed Systems**, in the last semester of the Bachelor's degree (2019/20).
