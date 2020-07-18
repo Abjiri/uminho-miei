@@ -1,7 +1,7 @@
 # Stocasthic Dynamic Programming and Markovian Processes
 
 This project was divided in two separate parts: 
-* firstly, we are faced with a scenario for which we had to find out the best policy to maximize the profit, through the value iteration model;
+* firstly, we are faced with a scenario for which we had to find out the best policy to maximize the profit, through the value iteration model, implemented in **JAVA**;
 * secondly, we present a comprehensive summary of a scientific paper on the use of multi-state Markov chains in the analysis of Chronic Kidney Disease
 progression.
 
