@@ -5,7 +5,7 @@ This assignment was divided in two parts: the first focused on IP datagrams and 
 In order to answer the questions, the team had to monitor IP traffic, resorting either to the program **Wireshark** 
 or by building topologies in the **CORE** tool provided by the teachers.
 
-The assignment was developed in **Computer Networks**, in the first semester of the 3rd and last year of the Bachelor's degree.
+The assignment was developed in **Computer Networks**, in the first semester of the 3rd and last year of the Bachelor's degree (2019/20).
 
 ### Content
 
