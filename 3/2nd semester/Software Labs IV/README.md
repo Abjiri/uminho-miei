@@ -1,12 +1,14 @@
 # SOSAnimal
 
-The objetive of this project was to develop a viable market product that could serve as an effective service for companies and other buyers. As such, the team decided to develop 
+The objetive of this project was to develop a viable market product that could serve as an effective service for companies and other buyers. As such, the team decided to create an animal sinalization service, in order to provide urgent care and attention to lost, abandoned or even wounded animals, as it's still an underexplored idea in Portugal.
 
-This project is made up of three interconnected parts:
+This project is made up of an **Android app** (backend + frontend) and a **backoffice**, both lodged in **Azure**:
 
-* Backend: 
+* **Backend**: database in **SQL** and API in **asp.net** with **C#**;
+* **Frontend**: interface in **Xamarin Forms** and **C# (MVVM)**, incorporation of WebServices (**Google Maps**);
+* **Backoffice**: administration website in **asp.net (MVC)**.
 
-The assignment was developed in **Knowledge and Reasoning Representation Systems**, in the last semester of the Bachelor's degree (2019/20).
+The assignment was developed in **Software Labs IV**, in the last semester of the Bachelor's degree (2019/20).
 
 ### Content
 
