@@ -9,7 +9,7 @@
 
 This repository contains the projects developed during my Software Engineering course, at University of Minho.
 
-Below is a list of the curricular units within the scope of which the assignments were developed, as well as their respective grades (some grades were not on the 0-20 scale, so I took the liberty of converting them proportionally, as a matter of consistency).
+Below is a list of the curricular units within the scope of which the assignments were developed, as well as their respective grades.
 
 ## :memo: Projects
 
@@ -60,4 +60,4 @@ Below is a list of the curricular units within the scope of which the assignment
 
   * (16.6) [Stocasthic Methods of Operational Investigation](3/2nd semester/Stocasthic Methods of Operational Investigation)
 
-<sup>1</sup>
+<sup>**Note**: some grades were not on the 0-20 scale, so I took the liberty of converting them proportionally, as a matter of consistency</sup>
