@@ -41,7 +41,7 @@ Below is a list of the curricular units within the scope of which the assignment
 
   * (17) [Distributed Systems](3/1st semester/Distributed Systems)
 
-  * (18,18,16) [Deterministic Methods of Operational Investigation](3/1st semester/Deterministic Methods of Operational Investigation)
+  * (90/100,90/100,80/100) [Deterministic Methods of Operational Investigation](3/1st semester/Deterministic Methods of Operational Investigation)
 
   * (16.4) [Computer Networks](3/1st semester/Computer Networks)
 
