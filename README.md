@@ -35,7 +35,7 @@ Below is a list of the curricular units within the scope of which the assignment
 
 ### 3rd year - 1st semester
 
-  * (17) [Bases de Dados](3/1st semester/Databases)
+  * (17) [Databases](3/1st semester/Databases)
 
   * (15) [Software Systems Development](3/1st semester/Software Systems Development)
 
