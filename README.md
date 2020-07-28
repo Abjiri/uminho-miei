@@ -15,7 +15,7 @@ Below is a list of the curricular units within the scope of which the assignment
 
 ## 1st year - 1st semester
 
-  * (19) [Software Labs I](1/Software Labs I)
+  * (19) [Software Labs I](/1/Software Labs I)
 
 ## 1st year - 2nd semester
 
