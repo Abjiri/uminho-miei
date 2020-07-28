@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://www.eng.uminho.pt/SiteAssets/Logo.PNG" alt="University of Minho">
-  <br>
-</div>
 
 <div align="center">
 	<h1><strong>Software Engineering</strong></h1>
