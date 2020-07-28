@@ -27,7 +27,7 @@ Below is a list of the curricular units within the scope of which the assignment
 
   * (11) [Object Oriented Programming](2/Object%20Oriented%20Programming)
 
-  * (17) [Software Labs III](2/Software%20Labs%20III)
+  * (17,16) [Software Labs III](2/Software%20Labs%20III)
 
   * (15) [Operating Systems](2/Operating%20Systems)
 
