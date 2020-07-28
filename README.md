@@ -54,7 +54,7 @@ Below is a list of the curricular units within the scope of which the assignment
 
   * (18) [Software Labs IV](3/2nd%20semester/Software%20Labs%20IV)
 
-  * (16) [Graphical Computation](3/2nd%20semester/Graphical%20Computation)
+  * (16.16) [Graphical Computation](3/2nd%20semester/Graphical%20Computation)
 
   * (16.6) [Stocasthic Methods of Operational Investigation](3/2nd%20semester/Stocasthic%20Methods%20of%20Operational%20Investigation)
 
