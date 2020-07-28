@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-	<h1><strong>Software Engineering</strong></h1>
+	<h1><strong>Software Engineering :books:</strong></h1>
 </div>
 
 This repository contains the projects developed during my Software Engineering course, at University of Minho.
