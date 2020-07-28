@@ -60,4 +60,6 @@ Below is a list of the curricular units within the scope of which the assignment
 
   * (16.6) [Stocasthic Methods of Operational Investigation](3/2nd semester/Stocasthic Methods of Operational Investigation)
 
+
+
 <sup>**Note**: some grades were not on the 0-20 scale, so I took the liberty of converting them proportionally, for the sake of consistency.</sup>
