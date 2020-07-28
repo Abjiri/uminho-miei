@@ -13,11 +13,11 @@ Below is a list of the curricular units within the scope of which the assignment
 
 ## :memo: Projects
 
-## 1st year - 1st semester
+### 1st year - 1st semester
 
   * (19) [Software Labs I](/1/Software Labs I)
 
-## 1st year - 2nd semester
+### 1st year - 2nd semester
 
   * (18)  [Software Labs II](1/Software Labs II)
 
