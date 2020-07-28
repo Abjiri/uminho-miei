@@ -11,17 +11,19 @@ This repository contains the projects developed during my Software Engineering c
 
 Below is a list of the curricular units within the scope of which the assignments were developed - as well as the projects' grades.
 
-## 1st year - 1st semester
+## :memo: Projects
+
+### 1st year - 1st semester
 
   * (19) [Software Labs I](1/Software%20Labs%20I)
 
-## 1st year - 2nd semester
+### 1st year - 2nd semester
 
   * (18)  [Software Labs II](1/Software%20Labs%20II)
 
-## 2nd year - 1st semester
+### 2nd year - 1st semester
 
-## 2nd year - 2nd semester
+### 2nd year - 2nd semester
 
   * (11.1) [Program Calculation](2/Program%20Calculation)
 
@@ -31,7 +33,7 @@ Below is a list of the curricular units within the scope of which the assignment
 
   * (15) [Operating Systems](2/Operating%20Systems)
 
-## 3rd year - 1st semester
+### 3rd year - 1st semester
 
   * (17) [Databases](3/1st%20semester/Databases)
 
@@ -44,7 +46,7 @@ Below is a list of the curricular units within the scope of which the assignment
   * (16.4) [Computer Networks](3/1st%20semester/Computer%20Networks)
 
 
-## 3rd year - 2nd semester
+### 3rd year - 2nd semester
 
   * (17,17) [Knowledge and Reasoning Representation Systems](3/2nd%20semester/Knowledge%20and%20Reasoning%20Representation%20Systems)
 
@@ -59,5 +61,7 @@ Below is a list of the curricular units within the scope of which the assignment
   * (16.6) [Stocasthic Methods of Operational Investigation](3/2nd%20semester/Stocasthic%20Methods%20of%20Operational%20Investigation)
 
 
+
+## :handshake: Colaborators
 
 <sup>**Note**: some grades were not on the 0-20 scale, so I took the liberty of converting them proportionally, for the sake of consistency.</sup>
