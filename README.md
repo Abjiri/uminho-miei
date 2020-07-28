@@ -13,51 +13,49 @@ Below is a list of the curricular units within the scope of which the assignment
 
 ## :memo: Projects
 
-## 1st year
+### 1st year - 1st semester
 
-  * (19) [Laboratórios de Informática I](1/LI1/Bomberman)
+  * (19) [Software Labs I](1/Software Labs I)
 
-## 1.º ano - 2.º Semestre
+### 1st year - 2nd semester
 
-  * (19)  [Laboratórios de Informática II](1/LI2/Roguelike)
+  * (18)  [Software Labs II](1/Software Labs II)
 
-## 2.º ano - 1.º Semestre
+### 2nd year - 1st semester
 
-## 2.º ano - 2.º Semestre
+### 2nd year - 2nd semester
 
-  * (19) [Cálculo de Programas](https://github.com/catarinamachado/CP)
+  * (12) [Program Calculation](2/Program Calculation)
 
-  * (19) [Programação Orientada aos Objetos](2/POO/JavaFactura)
+  * (11) [Object Oriented Programming](2/Object Oriented Programming)
 
-  * (18) [Laboratórios de Informática III](https://github.com/catarinamachado/LI3)
+  * (17) [Software Labs III](2/Software Labs III)
 
-  * (14) [Sistemas Operativos](2/SO/NPS)
+  * (15) [Operating Systems](2/Operating Systems)
 
-## 3.º ano - 1.º Semestre
+### 3rd year - 1st semester
 
-  * (17) [Bases de Dados](3/BD/EventsWorkbench)
+  * (17) [Bases de Dados](3/1st semester/Databases)
 
-  * (19) [Desenvolvimento de Sistemas de Software](3/DSS)
+  * (15) [Software Systems Development](3/1st semester/Software Systems Development)
 
-  * (19) [Sistemas Distribuídos](3/SD/CloudManagementServices)
+  * (17) [Distributed Systems](3/1st semester/Distributed Systems)
 
-  * (18) [Modelos Determinísticos de Investigação Operacional](3/MDIO)
+  * (18,18,16) [Deterministic Methods of Operational Investigation](3/1st semester/Deterministic Methods of Operational Investigation)
 
-  * [Métodos Numéricos e Otimização não Linear](3/MNONL)
-
-  * (16) [Redes de Computadores](3/RC)
+  * (16.4) [Computer Networks](3/1st semester/Computer Networks)
 
 
-## 3.º ano - 2.º Semestre
+### 3rd year - 2nd semester
 
-  * (19) [Sistemas de Representação de Conhecimento e Raciocínio](https://github.com/catarinamachado/SRCR)
+  * (17,17) [Knowledge and Reasoning Representation Systems](3/2nd semester/Knowledge and Reasoning Representation Systems)
 
-  * (17) [Comunicações por Computador](3/CC/)
+  * (15.8) [Communications by Computer](3/2nd semester/Communications by Computer)
 
-  * (19,18,19) [Processamento de Linguagens](3/PL)
+  * (17,?) [Languages Processing](3/2nd semester/Languages Processing)
 
-  * (19) [Laboratórios de Informática IV](https://github.com/catarinamachado/ACE-it---Cooking-assistant)
+  * (18) [Software Labs IV](3/2nd semester/Software Labs IV)
 
-  * (15) [Computação Gráfica](3/CG)
+  * (16) [Graphical Computation](3/2nd semester/Graphical Computation)
 
-  * (19) [Modelos Estocásticos de Investigação Operacional](3/MEIO)
+  * (16.6) [Stocasthic Methods of Operational Investigation](3/2nd semester/Stocasthic Methods of Operational Investigation)
