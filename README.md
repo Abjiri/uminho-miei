@@ -23,7 +23,7 @@ Below is a list of the curricular units within the scope of which the assignment
 
 ## 2nd year - 2nd semester
 
-  * (12) [Program Calculation](2/Program%20Calculation)
+  * (11.1) [Program Calculation](2/Program%20Calculation)
 
   * (11) [Object Oriented Programming](2/Object%20Oriented%20Programming)
 
