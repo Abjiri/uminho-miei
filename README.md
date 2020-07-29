@@ -52,7 +52,7 @@ Below is a list of the curricular units within the scope of which the assignment
 
   * (15.8) [Communications by Computer](3/2nd%20semester/Communications%20by%20Computer)
 
-  * (17,?) [Languages Processing](3/2nd%20semester/Languages%20Processing)
+  * (17,19) [Languages Processing](3/2nd%20semester/Languages%20Processing)
 
   * (18) [Software Labs IV](3/2nd%20semester/Software%20Labs%20IV)
 
