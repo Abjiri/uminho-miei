@@ -25,7 +25,7 @@ Below is a list of the curricular units within the scope of which the assignment
 
 ### 2nd year - 2nd semester
 
-  * (11.1) [Program Calculation](2/Program%20Calculation)
+  * (11) [Program Calculation](2/Program%20Calculation)
 
   * (11) [Object Oriented Programming](2/Object%20Oriented%20Programming)
 
@@ -50,7 +50,7 @@ Below is a list of the curricular units within the scope of which the assignment
 
   * (17, 17) [Knowledge and Reasoning Representation Systems](3/2nd%20semester/Knowledge%20and%20Reasoning%20Representation%20Systems)
 
-  * (15.8) [Communications by Computer](3/2nd%20semester/Communications%20by%20Computer)
+  * (16) [Communications by Computer](3/2nd%20semester/Communications%20by%20Computer)
 
   * (17, 19) [Languages Processing](3/2nd%20semester/Languages%20Processing)
 
