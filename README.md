@@ -68,7 +68,7 @@ Below is a list of the curricular units within the scope of which the assignment
 
   * (17) [Data Center Infrastructure]
 
-  * (16) [Fundamentals of Distributed Systems]
+  * (16) [Fundamentals of Distributed Systems](https://github.com/Abjiri/uminho-miei/tree/master/4/1st%20semester/FSD)
 
   * (14) [Paradigm of Distributed Systems]
 
