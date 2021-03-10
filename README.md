@@ -66,14 +66,14 @@ Below is a list of the curricular units within the scope of which the assignment
 
   * (17.6) [Databases Administration]
 
-  * (17) [Data Center Infrastructure](3/2nd%20semester/Communications%20by%20Computer)
+  * (17) [Data Center Infrastructure]
 
-  * (16) [Fundamentals of Distributed Systems](3/2nd%20semester/Languages%20Processing)
+  * (16) [Fundamentals of Distributed Systems]
 
-  * (14) [Paradigm of Distributed Systems](3/2nd%20semester/Software%20Labs%20IV)
+  * (14) [Paradigm of Distributed Systems]
 
-  * (19) [NoSQL Databases](3/2nd%20semester/Graphical%20Computation)
+  * (19) [NoSQL Databases]
 
-  * (20) [Web Applications Development](3/2nd%20semester/Stocasthic%20Methods%20of%20Operational%20Investigation)
+  * (20) [Web Applications Development]
 
 <sup>**Note**: some grades were not on the 0-20 scale, so I took the liberty of converting them proportionally, for the sake of consistency.</sup>
