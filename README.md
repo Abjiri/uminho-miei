@@ -72,7 +72,7 @@ Below is a list of the curricular units within the scope of which the assignment
 
   * (14) [Paradigm of Distributed Systems]
 
-  * (19) [NoSQL Databases]
+  * (19) [NoSQL Databases](https://github.com/Abjiri/uminho-miei/tree/master/4/1st%20semester/NoSQL%20Databases)
 
   * (20) [Web Applications Development]
 
