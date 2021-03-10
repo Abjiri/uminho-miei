@@ -2,7 +2,7 @@
 
 The objective of this project was to develop a distributed system for storage of pairs <key,value> in **JAVA** that ensured concurrence and data consistency, with an API for GET/POST requests. The system followed several assumptions: the set of servers is fixed, previously known and there are no failures.
 
-The assignment was developed in the **Distributed Systems** profile of the Master's Degree, in the first semester (2020/21).
+The assignment was developed in the **Distributed Systems** profile of the Master's Degree (2020/21).
 
 ### Content
 
