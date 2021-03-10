@@ -64,13 +64,13 @@ Below is a list of the curricular units within the scope of which the assignment
 
 **Profiles: Aplications Engineering [AE] & Distributed Systems [DS]**
 
-  * (17.6) \[AE][Databases Administration]
+  * (17.6) \[AE] [Databases Administration]
 
-  * (17) \[AE][Data Center Infrastructure](3/2nd%20semester/Communications%20by%20Computer)
+  * (17) \[AE] [Data Center Infrastructure](3/2nd%20semester/Communications%20by%20Computer)
 
-  * (16) \[DS][Fundamentals of Distributed Systems](3/2nd%20semester/Languages%20Processing)
+  * (16) \[DS] [Fundamentals of Distributed Systems](3/2nd%20semester/Languages%20Processing)
 
-  * (14) \[DS][Paradigm of Distributed Systems](3/2nd%20semester/Software%20Labs%20IV)
+  * (14) \[DS] [Paradigm of Distributed Systems](3/2nd%20semester/Software%20Labs%20IV)
 
   * (19) [NoSQL Databases](3/2nd%20semester/Graphical%20Computation)
 
