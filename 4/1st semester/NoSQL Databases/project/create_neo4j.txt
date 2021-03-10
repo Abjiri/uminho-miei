@@ -1,0 +1,101 @@
+// CRIAÇÃO DOS NODOS ---------------------------------------------------------------
+
+LOAD CSV WITH HEADERS FROM "file:///COUNTRIES.csv" AS row
+CREATE (country:COUNTRY {COUNTRY_ID: row.COUNTRY_ID})
+SET country.COUNTRY_NAME = row.COUNTRY_NAME
+RETURN country;
+
+LOAD CSV WITH HEADERS FROM "file:///REGIONS.csv" AS row
+CREATE (region:REGION {REGION_ID: row.REGION_ID})
+SET region.REGION_NAME = row.REGION_NAME
+RETURN region;
+
+LOAD CSV WITH HEADERS FROM "file:///LOCATIONS.csv" AS row
+CREATE (location:LOCATION {LOCATION_ID: row.LOCATION_ID})
+SET location.STREET_ADDRESS = row.STREET_ADDRESS,
+    location.POSTAL_CODE = row.POSTAL_CODE,
+    location.CITY = row.CITY,
+    location.STATE_PROVINCE = row.STATE_PROVINCE
+RETURN location;
+
+LOAD CSV WITH HEADERS FROM "file:///DEPARTMENTS.csv" AS row
+CREATE (department:DEPARTMENT {DEPARTMENT_ID: row.DEPARTMENT_ID})
+SET department.DEPARTMENT_NAME = row.DEPARTMENT_NAME
+RETURN department;
+
+LOAD CSV WITH HEADERS FROM "file:///JOBS.csv" AS row
+CREATE (job:JOB {JOB_ID: row.JOB_ID})
+SET job.JOB_TITLE = row.JOB_TITLE,
+    job.MIN_SALARY = row.MIN_SALARY,
+    job.MAX_SALARY = row.MAX_SALARY
+RETURN job;
+
+LOAD CSV WITH HEADERS FROM "file:///EMPLOYEES.csv" AS row
+CREATE (employee:EMPLOYEE {EMPLOYEE_ID: row.EMPLOYEE_ID})
+SET employee.FIRST_NAME = row.FIRST_NAME, 
+    employee.LAST_NAME = row.LAST_NAME, 
+    employee.EMAIL = row.EMAIL, 
+    employee.PHONE_NUMBER = row.PHONE_NUMBER, 
+    employee.HIRE_DATE = row.HIRE_DATE,
+    employee.SALARY = row.SALARY, 
+    employee.COMMISSION_PCT = row.COMMISSION_PCT,
+    employee.MANAGER_ID = row.MANAGER_ID
+RETURN employee;
+
+
+
+// CRIAÇÃO DOS RELACIONAMENTOS ---------------------------------------------------------------
+
+LOAD CSV WITH HEADERS FROM 'file:///COUNTRIES.csv' AS row
+MATCH (country:COUNTRY {COUNTRY_ID: row.COUNTRY_ID})
+MATCH (region:REGION {REGION_ID:row.REGION_ID})
+CREATE (country)-[:LOCATED_IN]->(region)
+RETURN country,region;
+
+LOAD CSV WITH HEADERS FROM 'file:///LOCATIONS.csv' AS row
+MATCH (location:LOCATION {LOCATION_ID: row.LOCATION_ID})
+MATCH (country:COUNTRY {COUNTRY_ID: row.COUNTRY_ID})
+CREATE (location)-[:LOCATED_IN]->(country)
+RETURN location,country;
+
+LOAD CSV WITH HEADERS FROM 'file:///DEPARTMENTS.csv' AS row
+MATCH (department:DEPARTMENT {DEPARTMENT_ID: row.DEPARTMENT_ID})
+MATCH (location:LOCATION {LOCATION_ID: row.LOCATION_ID})
+CREATE (department)-[:LOCATED_IN]->(location)
+RETURN department,location;
+
+LOAD CSV WITH HEADERS FROM 'file:///EMPLOYEES.csv' AS row
+MATCH (employee:EMPLOYEE {EMPLOYEE_ID: row.EMPLOYEE_ID})
+MATCH (job:JOB {JOB_ID: row.JOB_ID})
+CREATE (employee)-[:PRACTICES]->(job)
+RETURN employee,job;
+
+LOAD CSV WITH HEADERS FROM 'file:///EMPLOYEES.csv' AS row
+MATCH (employee:EMPLOYEE {EMPLOYEE_ID: row.EMPLOYEE_ID})
+MATCH (department:DEPARTMENT {DEPARTMENT_ID: row.DEPARTMENT_ID})
+CREATE (employee)-[:WORKS_IN]->(department)
+RETURN employee,department;
+
+LOAD CSV WITH HEADERS FROM 'file:///DEPARTMENTS.csv' AS row
+MATCH (department:DEPARTMENT {DEPARTMENT_ID: row.DEPARTMENT_ID})
+MATCH (employee:EMPLOYEE {EMPLOYEE_ID: row.MANAGER_ID})
+CREATE (department)-[:MANAGED_BY]->(employee)
+RETURN department,employee;
+
+LOAD CSV WITH HEADERS FROM 'file:///JOB_HISTORY.csv' AS row
+MATCH (employee:EMPLOYEE {EMPLOYEE_ID: row.EMPLOYEE_ID})
+MATCH (department:DEPARTMENT {DEPARTMENT_ID: row.DEPARTMENT_ID})
+CREATE (employee)-[:WORKED_IN {START_DATE: row.START_DATE, END_DATE: row.END_DATE}]->(department)
+RETURN employee,department;
+
+LOAD CSV WITH HEADERS FROM 'file:///JOB_HISTORY.csv' AS row
+MATCH (employee:EMPLOYEE {EMPLOYEE_ID: row.EMPLOYEE_ID})
+MATCH (job:JOB {JOB_ID: row.JOB_ID})
+CREATE (employee)-[:PRACTICED {START_DATE: row.START_DATE, END_DATE: row.END_DATE}]->(job)
+RETURN employee,job;
+
+LOAD CSV WITH HEADERS FROM 'file:///EMPLOYEES.csv' AS row
+MATCH (employee:EMPLOYEE {EMPLOYEE_ID: row.EMPLOYEE_ID})
+MATCH (manager:EMPLOYEE {EMPLOYEE_ID: row.MANAGER_ID})
+CREATE (employee)-[:SUPERVISED_BY]->(manager)
+RETURN employee,manager;

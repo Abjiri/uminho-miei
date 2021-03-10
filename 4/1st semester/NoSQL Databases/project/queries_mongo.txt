@@ -1,0 +1,51 @@
+// Média de salários por departamentos
+db.departments.aggregate([
+  {$unwind: "$EMPLOYEES"},
+  {$group: {_id: "$DEPARTMENT_NAME", Media_Salario: {$avg: "$EMPLOYEES.SALARY"}}},
+  {$sort: {"Media_Salario": -1}},
+  {$project: {_id: 0, Departamento: "$_id", Media_Salario: {$round: ["$Media_Salario",2]}}}
+]).pretty()
+
+// Top 5 empregados com o contrato ativo mais duradouro em cada região
+db.departments.aggregate([
+  {$match: {"LOCATION.REGION": {"$exists": true, "$ne": null}} },
+  {$unwind: "$EMPLOYEES"},
+  {$addFields: {Nome: {$concat: ["$EMPLOYEES.FIRST_NAME", " ", "$EMPLOYEES.LAST_NAME"]}} },
+  {$sort: {"EMPLOYEES.HIRE_DATE": 1,"Nome": 1} },
+  {$group: { _id: "$LOCATION.REGION", Top5: {$push: {Nome:"$Nome", Data_Inicio:"$EMPLOYEES.HIRE_DATE"}}} },
+  {$project: {_id: 0, Regiao: "$_id", Top5:{$slice:["$Top5", 5]}} }
+]).pretty()
+
+// Emprego antigo em que o utilizador com id 176 faturou mais
+db.departments.aggregate([
+  {$unwind: "$EMPLOYEES"},
+  {$match: {"EMPLOYEES.EMPLOYEE_ID": 176} },
+  {$unwind: "$EMPLOYEES.JOB_HISTORY"},
+  {$project: {_id: 0, Emprego:"$EMPLOYEES.JOB_HISTORY.JOB.JOB_TITLE", DataInicial: "$EMPLOYEES.JOB_HISTORY.START_DATE", DataFinal: "$EMPLOYEES.JOB_HISTORY.END_DATE",Faturado: {$round: [{$multiply: [{$divide: [{$subtract: ["$EMPLOYEES.JOB_HISTORY.END_DATE", "$EMPLOYEES.JOB_HISTORY.START_DATE"]}, 1000*60*60*24*30]}, "$EMPLOYEES.JOB_HISTORY.JOB.MAX_SALARY"]},2]}} }, 
+  {$sort: {"Faturado": -1}},
+  {$limit: 1}
+]).pretty()
+
+// Numero de empregados por localização
+db.departments.aggregate([
+  {$unwind: "$EMPLOYEES"},
+  {$match: {"LOCATION": {"$ne": {}}} },
+  {$group: { _id: "$LOCATION", Total: {$sum: 1}}},
+  {$sort: {"Total": -1}},
+  {$project: {_id: 0, Localizacao: "$_id", Total: "$Total"}}
+]).pretty()
+
+// Maior Salário em cada região
+db.departments.aggregate([
+  {$unwind: "$EMPLOYEES"},
+  {$match: {"LOCATION.REGION": {"$exists": true, "$ne": null}} },
+  {$group: { _id: "$LOCATION.REGION", Maximo: {$max: "$EMPLOYEES.SALARY"}}},
+  {$sort: {"Maximo": -1}},
+  {$project: {_id: 0, Regiao: "$_id", Maximo: "$Maximo"}}
+]).pretty()
+
+// Saber o departamento e a região da empregada 'Shelley Higgins'
+db.departments.find(
+  {"EMPLOYEES": {$elemMatch: {"FIRST_NAME": "Shelley", "LAST_NAME": "Higgins"}}},
+  {_id: 0, "DEPARTMENT_NAME": 1, "REGION": "$LOCATION.REGION"}
+)
