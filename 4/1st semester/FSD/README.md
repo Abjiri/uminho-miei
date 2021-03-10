@@ -14,7 +14,7 @@ The assignment was developed in the **Distributed Systems** profile of the Maste
 
 ![Hugo Cardoso][hugo-pic] | ![José Silva][ze-pic] | ![Pedro Rodrigues][areias-pic] | ![Válter Carvalho][valter-pic]
 :---: | :---: | :---: | :---:
-![Hugo Cardoso][hugo] | ![José Silva][ze] | ![Pedro Rodrigues][areias] | ![Válter Carvalho][valter]
+[Hugo Cardoso][hugo] | [José Silva][ze] | [Pedro Rodrigues][areias] | [Válter Carvalho][valter]
 
 [areias]: https://github.com/pedrordgs
 [areias-pic]: https://github.com/pedrordgs.png?size=120
