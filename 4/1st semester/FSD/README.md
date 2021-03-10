@@ -16,11 +16,11 @@ The assignment was developed in the **Distributed Systems** profile of the Maste
 :---: | :---: | :---: | :---:
 ![Hugo Cardoso][hugo] | ![José Silva][ze] | ![Pedro Rodrigues][areias] | ![Válter Carvalho][valter]
 
-[areias]: https://github.com/Jcc20
-[areias-pic]: https://github.com/Jcc20.png?size=120
+[areias]: https://github.com/pedrordgs
+[areias-pic]: https://github.com/pedrordgs.png?size=120
 [hugo]: https://github.com/Abjiri
 [hugo-pic]: https://github.com/Abjiri.png?size=120
 [valter]: https://github.com/wurzy
 [valter-pic]: https://github.com/wurzy.png?size=120
-[ze]: https://github.com/fliper6
-[ze-pic]: https://github.com/fliper6.png?size=120
+[ze]: https://github.com/PedroSilva9
+[ze-pic]: https://github.com/PedroSilva9.png?size=120
