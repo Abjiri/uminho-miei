@@ -29,7 +29,7 @@ Below is a list of the curricular units within the scope of which the assignment
 
   * (11) [Object Oriented Programming](2/Object%20Oriented%20Programming)
 
-  * (17,16) [Software Labs III](2/Software%20Labs%20III)
+  * (17, 16) [Software Labs III](2/Software%20Labs%20III)
 
   * (15) [Operating Systems](2/Operating%20Systems)
 
@@ -41,34 +41,36 @@ Below is a list of the curricular units within the scope of which the assignment
 
   * (17) [Distributed Systems](3/1st%20semester/Distributed%20Systems)
 
-  * (18,18,16) [Deterministic Methods of Operational Investigation](3/1st%20semester/Deterministic%20Methods%20of%20Operational%20Investigation)
+  * (18, 18, 16) [Deterministic Methods of Operational Investigation](3/1st%20semester/Deterministic%20Methods%20of%20Operational%20Investigation)
 
   * (16.4) [Computer Networks](3/1st%20semester/Computer%20Networks)
 
 
 ### 3rd year - 2nd semester
 
-  * (17,17) [Knowledge and Reasoning Representation Systems](3/2nd%20semester/Knowledge%20and%20Reasoning%20Representation%20Systems)
+  * (17, 17) [Knowledge and Reasoning Representation Systems](3/2nd%20semester/Knowledge%20and%20Reasoning%20Representation%20Systems)
 
   * (15.8) [Communications by Computer](3/2nd%20semester/Communications%20by%20Computer)
 
-  * (17,19) [Languages Processing](3/2nd%20semester/Languages%20Processing)
+  * (17, 19) [Languages Processing](3/2nd%20semester/Languages%20Processing)
 
   * (18) [Software Labs IV](3/2nd%20semester/Software%20Labs%20IV)
 
-  * (16.16) [Graphical Computation](3/2nd%20semester/Graphical%20Computation)
+  * (16) [Graphical Computation](3/2nd%20semester/Graphical%20Computation)
 
   * (16.6) [Stocasthic Methods of Operational Investigation](3/2nd%20semester/Stocasthic%20Methods%20of%20Operational%20Investigation)
 
 ### 4th year - 1st semester
 
-  * (17.6) [Databases Administration]
+**Profiles: Aplications Engineering [AE] & Distributed Systems [DS]**
 
-  * (17) [Data Center Infrastructure](3/2nd%20semester/Communications%20by%20Computer)
+  * (17.6) \[AE][Databases Administration]
 
-  * (16) [Fundamentals of Distributed Systems](3/2nd%20semester/Languages%20Processing)
+  * (17) \[AE][Data Center Infrastructure](3/2nd%20semester/Communications%20by%20Computer)
 
-  * (14) [Paradigm of Distributed Systems](3/2nd%20semester/Software%20Labs%20IV)
+  * (16) \[DS][Fundamentals of Distributed Systems](3/2nd%20semester/Languages%20Processing)
+
+  * (14) \[DS][Paradigm of Distributed Systems](3/2nd%20semester/Software%20Labs%20IV)
 
   * (19) [NoSQL Databases](3/2nd%20semester/Graphical%20Computation)
 
