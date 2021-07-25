@@ -78,9 +78,9 @@ Below is a list of the curricular units within the scope of which the assignment
 
 ### 4th year - 2nd semester
 
-  * (16) [Applicational Architectures] [EA]
+  * (16) [Applicational Architectures](https://github.com/Abjiri/uminho-miei/tree/master/4/2nd%20semester/Applicational%20Arquitectures) [EA]
 
-  * (18) [Interactive Systems] [EA]
+  * (18) [Interactive Systems](https://github.com/Abjiri/uminho-miei/tree/master/4/2nd%20semester/Interactive%20Systems) [EA]
 
   * (18.4) [Fault Tolerance] [SD]
 
