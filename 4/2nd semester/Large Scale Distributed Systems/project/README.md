@@ -8,6 +8,7 @@ The assignment was developed in the **Distributed Systems** profile of the Maste
 
 1. [Assignment](assignment.pdf)
 2. [Report](report.pdf)
+3. [Presentation](presentation.pptx)
 
 ## Contributors
 
