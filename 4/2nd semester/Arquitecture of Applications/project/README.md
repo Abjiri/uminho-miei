@@ -8,7 +8,7 @@ The main focus of this work was the modelation and prototyping for optimal funct
 * Business Logic layer - **Spring** & **Hibernate**
 * Persistence layer - **MySQL**
 
-The assignment was developed in the **Applications Engineering** profile of the Master's Degree (2020/21), as a joint project of **Arquitecture of Applications** and **Interactive Systems**.
+The assignment was developed as a joint project of **Arquitecture of Applications** and **Interactive Systems**, in the **Applications Engineering** profile of the Master's Degree (2020/21).
 
 ### Content
 
