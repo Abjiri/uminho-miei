@@ -66,7 +66,7 @@ Below is a list of the curricular units within the scope of which the assignment
 
   * (17.6) [Administration of Databases](https://github.com/Abjiri/uminho-miei/tree/master/4/1st%20semester/Administration%20of%20Databases)
 
-  * (17) [Data Center Infrastructure]
+  * (17) [Infrastructures of Data Centers](https://github.com/Abjiri/uminho-miei/tree/master/4/1st%20semester/Infrastructures%20of%20Data%20Centers)
 
   * (16) [Fundamentals of Distributed Systems](https://github.com/Abjiri/uminho-miei/tree/master/4/1st%20semester/FSD)
 
