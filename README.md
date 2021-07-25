@@ -74,6 +74,6 @@ Below is a list of the curricular units within the scope of which the assignment
 
   * (19) [NoSQL Databases](https://github.com/Abjiri/uminho-miei/tree/master/4/1st%20semester/NoSQL%20Databases)
 
-  * (20) [Web Applications Development]
+  * (20) [Development of Web Applications](https://github.com/Abjiri/TP_DAW2020)
 
 <sup>**Note**: some grades were not on the 0-20 scale, so I took the liberty of converting them proportionally, for the sake of consistency.</sup>
