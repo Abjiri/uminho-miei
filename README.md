@@ -84,7 +84,7 @@ Below is a list of the curricular units within the scope of which the assignment
 
   * (18.4) [Fault Tolerance] [SD]
 
-  * (16) [Large Scale Distributed Systems] [SD]
+  * (16) [Large Scale Distributed Systems](https://github.com/Abjiri/uminho-miei/tree/master/4/2nd%20semester/Large%20Scale%20Distributed%20Systems) [SD]
 
   * (20) [Laboratory in Software Engineering](https://github.com/Abjiri/DataGen/tree/main)
 
