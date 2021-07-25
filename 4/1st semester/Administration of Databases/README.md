@@ -1,6 +1,6 @@
 # Benchmark TPC-C
 
-This project consisted in the configuration, optimization and evaluation of the benchmark TPC-C, with some additional data and queries. TPC-C simulates a system of databases for a store chain, with support for daily operations of managing sales and stocks. The additional analytical interrogations, based on the adaptation of TPC-H, can be run ocasionally.
+This project consisted in the configuration, optimization and evaluation of the benchmark TPC-C, with some additional data and queries. TPC-C simulates a system of databases for a store chain, with support for daily operations of managing sales and stocks. The additional analytical interrogations, based on the adaptation of TPC-H, can be run ocasionally. **Google Cloud Platform** was used to run instances of the benchmark and the queries.
 
 The assignment was developed in the **Applications Engineering** profile of the Master's Degree (2020/21).
 
