@@ -74,13 +74,13 @@ Below is a list of the curricular units within the scope of which the assignment
 
   * (19) [NoSQL Databases](https://github.com/Abjiri/uminho-miei/tree/master/4/1st%20semester/NoSQL%20Databases)
 
-  * (20) [Development of Web Applications](https://github.com/Abjiri/TP_DAW2020)
+  * (20) [Development of Web Applications](https://github.com/Abjiri/uminho-miei/tree/master/4/1st%20semester/Development%20of%20Web%20Applications)
 
 ### 4th year - 2nd semester
 
-  * (16) [Applicational Architectures] [EA]
+  * (16) [Applicational Architectures](https://github.com/Abjiri/uminho-miei/tree/master/4/2nd%20semester/Applicational%20Arquitectures) [EA]
 
-  * (18) [Interactive Systems] [EA]
+  * (18) [Interactive Systems](https://github.com/Abjiri/uminho-miei/tree/master/4/2nd%20semester/Interactive%20Systems) [EA]
 
   * (18.4) [Fault Tolerance] [SD]
 
