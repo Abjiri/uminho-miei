@@ -62,15 +62,15 @@ Below is a list of the curricular units within the scope of which the assignment
 
 ### 4th year - 1st semester
 
-**Profiles: Aplications Engineering (EA) & Distributed Systems (SD)**
+**Profiles: Aplications Engineering [EA] & Distributed Systems [SD]**
 
-  * (17.6) [Administration of Databases](https://github.com/Abjiri/uminho-miei/tree/master/4/1st%20semester/Administration%20of%20Databases) (EA)
+  * (17.6) [Administration of Databases](https://github.com/Abjiri/uminho-miei/tree/master/4/1st%20semester/Administration%20of%20Databases) [EA]
 
-  * (17) [Infrastructures of Data Centers](https://github.com/Abjiri/uminho-miei/tree/master/4/1st%20semester/Infrastructures%20of%20Data%20Centers) (EA)
+  * (17) [Infrastructures of Data Centers](https://github.com/Abjiri/uminho-miei/tree/master/4/1st%20semester/Infrastructures%20of%20Data%20Centers) [EA]
 
-  * (16) [Fundamentals of Distributed Systems](https://github.com/Abjiri/uminho-miei/tree/master/4/1st%20semester/FSD) (SD)
+  * (16) [Fundamentals of Distributed Systems](https://github.com/Abjiri/uminho-miei/tree/master/4/1st%20semester/FSD) [SD]
 
-  * (14) [Paradigm of Distributed Systems] (SD)
+  * (14) [Paradigm of Distributed Systems] [SD]
 
   * (19) [NoSQL Databases](https://github.com/Abjiri/uminho-miei/tree/master/4/1st%20semester/NoSQL%20Databases) (optional)
 
