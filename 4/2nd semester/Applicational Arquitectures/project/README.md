@@ -8,7 +8,7 @@ The main focus of this work was the modelation and prototyping for optimal funct
 * Business Logic layer - **Spring** & **Hibernate**
 * Persistence layer - **MySQL**
 
-The assignment was developed as a joint project of **Arquitecture of Applications** and **Interactive Systems**, in the **Applications Engineering** profile of the Master's Degree (2020/21).
+The assignment was developed as a joint project of **Applicational Arquitectures** and **Interactive Systems**, in the **Applications Engineering** profile of the Master's Degree (2020/21).
 
 ### Content
 
@@ -23,9 +23,9 @@ The assignment was developed as a joint project of **Arquitecture of Application
 
 ## Contributors
 
-![Filipa Santos][filipa-pic] | ![Hugo Cardoso][hugo-pic] | ![João Costa][cunha-pic] | ![Válter Carvalho][valter-pic]
-:---: | :---: | :---: | :---:
-[Filipa Santos][filipa] | [Hugo Cardoso][hugo] | [João Costa][cunha] | [Válter Carvalho][valter]
+![Filipa Santos][filipa-pic] | ![Hugo Cardoso][hugo-pic] | ![João Costa][cunha-pic] | ![Luís Ramos][ramos-pic] | ![Válter Carvalho][valter-pic]
+:---: | :---: | :---: | :---: | :---:
+[Filipa Santos][filipa] | [Hugo Cardoso][hugo] | [João Costa][cunha] | [Luís Ramos][ramos] | [Válter Carvalho][valter]
 
 [filipa]: https://github.com/fliper6
 [filipa-pic]: https://github.com/fliper6.png?size=120
@@ -33,5 +33,7 @@ The assignment was developed as a joint project of **Arquitecture of Application
 [hugo-pic]: https://github.com/Abjiri.png?size=120
 [cunha]: https://github.com/Jcc20
 [cunha-pic]: https://github.com/Jcc20.png?size=120
+[ramos]: https://github.com/LuisRamos99
+[ramos-pic]: https://github.com/LuisRamos99.png?size=120
 [valter]: https://github.com/wurzy
 [valter-pic]: https://github.com/wurzy.png?size=120
