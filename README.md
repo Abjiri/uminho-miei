@@ -62,15 +62,15 @@ Below is a list of the curricular units within the scope of which the assignment
 
 ### 4th year - 1st semester
 
-**Profiles: Aplications Engineering (1) & Distributed Systems (2)**
+**Profiles: Aplications Engineering (EA) & Distributed Systems (SD)**
 
-  * (17.6) [Administration of Databases](https://github.com/Abjiri/uminho-miei/tree/master/4/1st%20semester/Administration%20of%20Databases) (1)
+  * (17.6) [Administration of Databases](https://github.com/Abjiri/uminho-miei/tree/master/4/1st%20semester/Administration%20of%20Databases) (EA)
 
-  * (17) [Infrastructures of Data Centers](https://github.com/Abjiri/uminho-miei/tree/master/4/1st%20semester/Infrastructures%20of%20Data%20Centers) (1)
+  * (17) [Infrastructures of Data Centers](https://github.com/Abjiri/uminho-miei/tree/master/4/1st%20semester/Infrastructures%20of%20Data%20Centers) (eA)
 
-  * (16) [Fundamentals of Distributed Systems](https://github.com/Abjiri/uminho-miei/tree/master/4/1st%20semester/FSD) (2)
+  * (16) [Fundamentals of Distributed Systems](https://github.com/Abjiri/uminho-miei/tree/master/4/1st%20semester/FSD) (SD)
 
-  * (14) [Paradigm of Distributed Systems] (2)
+  * (14) [Paradigm of Distributed Systems] (SD)
 
   * (19) [NoSQL Databases](https://github.com/Abjiri/uminho-miei/tree/master/4/1st%20semester/NoSQL%20Databases) (optional)
 
@@ -78,13 +78,13 @@ Below is a list of the curricular units within the scope of which the assignment
 
 ### 4th year - 2nd semester
 
-  * (16) [Applicational Architectures] (1)
+  * (16) [Applicational Architectures] (EA)
 
-  * (18) [Interactive Systems] (1)
+  * (18) [Interactive Systems] (EA)
 
-  * (16) [Large Scale Distributed Systems] (2)
+  * (18.4) [Fault Tolerance] (SD)
 
-  * (18.4) [Fault Tolerance] (2)
+  * (16) [Large Scale Distributed Systems] (SD)
 
   * (20) [Laboratory in Software Engineering](https://github.com/Abjiri/DataGen/tree/main)
 
