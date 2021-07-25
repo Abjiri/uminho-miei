@@ -64,7 +64,7 @@ Below is a list of the curricular units within the scope of which the assignment
 
 **Profiles: Aplications Engineering & Distributed Systems**
 
-  * (17.6) [Databases Administration]
+  * (17.6) [Administration of Databases](https://github.com/Abjiri/uminho-miei/tree/master/4/1st%20semester/Administration%20of%20Databases)
 
   * (17) [Data Center Infrastructure]
 
