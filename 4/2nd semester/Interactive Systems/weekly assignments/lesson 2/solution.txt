@@ -1,0 +1,65 @@
+Hugo André Coelho Cardoso - A85006
+
+Trabalho realizado em conjunto com:
+- Válter Ferreira Picas Carvalho - A84464
+
+1)
+
+a. MPBBMPBBMP - 7.30 sec
+(com toolbar)
+
+- apontar para a toolbar
+- clicar (down) na opção da toolbar
+- largar (up) na opção de apagar
+- apontar para o botão de confirmar
+- clicar (down & up) no botão
+- apontar para a posição inicial
+
+
+
+b. MPBBHMKKHMP - 7.36 sec
+
+- apontar para o ficheiro
+- selecionar o ficheiro (down & up)
+- levar a mão ao teclado
+- carregar no shift
+- carregar no D
+- tirar a mão do teclado
+- apontar para a posição inicial
+
+
+2)
+
+a. Interface da figura - (MPBBPBB)*9 MPBB H T(15) - 41.30 sec
+
+(- pensar no número
+- apontar para o botão do dígito
+- carregar no botão
+- apontar para o dígito pretendido
+- selecionar o dígito )x9
+
+- mover a mão do rato para o teclado
+- pensar no nome
+- apontar para o input do nome
+- selecionar o input
+- escrever o nome
+
+
+Interface alternativa - MPBBH T(9) HMPBB H T(15) - 12.92 sec
+
+- pensar no dígito
+- apontar para o input
+- selecionar o input
+- mover a mão do rato para o teclado
+- escrever o nif
+
+- mover a mão do teclado para o rato
+- pensar no nome
+- apontar para o input do nome
+- selecionar o input
+- mover a mão do rato para o teclado
+- escrever o nome
+
+b) Interface da figura: Muito pouco intuitivo e torna complexo algo que em princípio seria muito simples. Implica muitas operações desnecessárias com todos os botões.
+   Interface da alternativa: Seria necessário controlo por parte da aplicação para garantir que são inseridos exatamente 9 dígitos.
+
