@@ -82,7 +82,7 @@ Below is a list of the curricular units within the scope of which the assignment
 
   * (18) [Interactive Systems](https://github.com/Abjiri/uminho-miei/tree/master/4/2nd%20semester/Interactive%20Systems) [EA]
 
-  * (18.4) [Fault Tolerance] [SD]
+  * (18.4) [Fault Tolerance](https://github.com/Abjiri/uminho-miei/tree/master/4/2nd%20semester/Fault%20Tolerance) [SD]
 
   * (16) [Large Scale Distributed Systems](https://github.com/Abjiri/uminho-miei/tree/master/4/2nd%20semester/Large%20Scale%20Distributed%20Systems) [SD]
 
